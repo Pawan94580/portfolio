@@ -4,7 +4,7 @@ A modern, high-performance developer portfolio featuring a futuristic dark theme
 
 # Overview
 
-<img width="1920" height="882" alt="rdme" src="https://portfolio-self-kappa-26.vercel.app/" />
+<img width="1920" height="882" alt="rdme" src="https://github.com/Pawan94580/portfolio/blob/main/public/rdme.png" />
 
 ## Features
 
